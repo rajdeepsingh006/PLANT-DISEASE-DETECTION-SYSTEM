@@ -1,6 +1,6 @@
 # Project Title
 
-##PLANT DISEASE DETECTION SYSTEM
+## PLANT DISEASE DETECTION SYSTEM
 
 # Description
 
